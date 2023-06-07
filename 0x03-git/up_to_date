@@ -1,0 +1,11 @@
+ls
+pwd
+touch
+cd
+git add .
+git push
+git pull
+git branch
+git checkout
+git commit -m
+git clone
